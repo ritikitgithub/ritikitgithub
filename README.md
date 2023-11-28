@@ -1,3 +1,4 @@
+![logo](https://github.com/ritikitgithub/ritikitgithub/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Ritik Kandare</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
